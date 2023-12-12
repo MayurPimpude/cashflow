@@ -1,4 +1,4 @@
-## cashflow
+# Cashflow
 # Feature extraction 
 Correlation matrix
 ![image](https://github.com/MayurPimpude/cashflow/assets/100997225/9087f6ef-5b49-43ed-b3b3-0ba1cfac63f4)
